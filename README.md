@@ -2,4 +2,4 @@
 >Csirke
 >
 `Tigris`
-```Sáska  Tasak  Krumpli```
+```Sáska   Tasak   Krumpli```
