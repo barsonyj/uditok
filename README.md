@@ -9,8 +9,11 @@ pnpm i
 pnpm dev
 ```
 ### Használat
-- `Üdítők` menüpont
-- `Szerkeszt` menüpont
-- `Névjegy` menüpont
+- `Üdítők` menüpont: kilistázza a kedvenc üdítőinket képekkel együtt
+- `Szerkeszt` menüpont: az adatokat listázza, szerkesztési lehetőséggel
+- `Névjegy` menüpont: információ a készítőről és az alkalmazásról
+
+- [x] Valami
+- [ ] Másol
 
 ![Coca-Cola](https://www.leonkft.hu/images/small/coca-cola-033l-dobozos-24dbcsomag-uz1259.jpg)
