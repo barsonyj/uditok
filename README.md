@@ -8,5 +8,6 @@ cd uditok
 pnpm i
 pnpm dev
 ```
-`Tigris`
+### Használat
+
 ![Coca-Cola](https://www.leonkft.hu/images/small/coca-cola-033l-dobozos-24dbcsomag-uz1259.jpg)
