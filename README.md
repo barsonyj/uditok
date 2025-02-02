@@ -13,9 +13,6 @@ pnpm dev
 - `Szerkeszt` menüpont: az adatokat listázza, szerkesztési lehetőséggel
 - `Névjegy` menüpont: információ a készítőről és az alkalmazásról
 
-- [x] Valami
-- [ ] Másol
-
 > [!CAUTION]
 > A használatból eredő károkért NEM vállalok felelősséget!
 
