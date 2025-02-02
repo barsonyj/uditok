@@ -16,4 +16,7 @@ pnpm dev
 - [x] Valami
 - [ ] Másol
 
+> [!Figyelem]
+> A használatból eredő károkért NEM vállalok felelősséget!
+
 ![Coca-Cola](https://www.leonkft.hu/images/small/coca-cola-033l-dobozos-24dbcsomag-uz1259.jpg)
