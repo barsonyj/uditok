@@ -10,7 +10,7 @@ pnpm dev
 ```
 ### Használat
 - `Üdítők` menüpont
-- `Szerkesztés` menüpont
+- `Szerkeszt` menüpont
 - `Névjegy` menüpont
 
 ![Coca-Cola](https://www.leonkft.hu/images/small/coca-cola-033l-dobozos-24dbcsomag-uz1259.jpg)
