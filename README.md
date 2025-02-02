@@ -9,4 +9,4 @@ pnpm i
 pnpm dev
 ```
 `Tigris`
-![Coca-Cola](https://matteopizzapasta.hu/szekszard/wp-content/uploads/2021/11/coca-dobozos-300x300.jpg)
+![Coca-Cola](https://www.leonkft.hu/images/small/coca-cola-033l-dobozos-24dbcsomag-uz1259.jpg)
