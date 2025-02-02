@@ -17,5 +17,3 @@ pnpm dev
 > Szabadon használható, de a használatból eredő károkért NEM vállalok felelősséget!
 
 ![Coca-Cola](https://www.leonkft.hu/images/small/coca-cola-033l-dobozos-24dbcsomag-uz1259.jpg)
-
-[Súgó](help.md)
